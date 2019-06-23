@@ -1,0 +1,9 @@
+{
+  "name": "carro2",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "foreman": "^3.0.1",
+    "nodemon": "^1.18.10"
+  }
+}
